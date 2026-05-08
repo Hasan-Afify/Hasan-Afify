@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hasan Afify</h1>
-<h3 align="center">AI & Robotics Engineer | Computer Vision | ROS2 | Embedded Systems | AI Automation</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=B59410&center=true&vCenter=true&lines=AI+%26+Robotics+Engineer;Computer+Vision+Developer;ROS2+%7C+Embedded+Systems;AI+Automation+Builder" />
+</p>
+
+<h3 align="center">
+AI & Robotics Engineer | Computer Vision | ROS2 | Embedded Systems | AI Automation
+</h3>
 
 ---
 
@@ -10,6 +17,7 @@
 - 🛠️ Building AI-powered robotic and automation systems using ROS2, ESP32, Python, and AI tools
 - ⚡ Experienced with workflow automation using n8n and Zapier
 - 🎯 Interested in real-world AI applications and autonomous systems
+- 🚀 Currently working on an AI-powered humanoid assistant robot for visually impaired people
 
 ---
 
@@ -17,11 +25,15 @@
 
 ### AI & Robotics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=esphome&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Machine Learning & Data
+### Machine Learning, Deep Learning & Data
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -30,6 +42,16 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hasan-Afify&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Afify&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
