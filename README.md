@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasan Afify</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=B59410&center=true&vCenter=true&lines=AI+%26+Robotics+Engineer;Computer+Vision+Developer;ROS2+%7C+Embedded+Systems;AI+Automation+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=BC13FE&center=true&vCenter=true&lines=AI+%26+Robotics+Engineer;Computer+Vision+Developer;ROS2+%7C+Embedded+Systems;AI+Automation+Builder" />
 </p>
 
 <h3 align="center">
