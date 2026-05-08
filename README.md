@@ -52,9 +52,9 @@ AI & Robotics Engineer | Computer Vision | ROS2 | Embedded Systems | AI Automati
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hasan-Afify&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="47%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hasan-Afify&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <img width="37%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hasan-Afify&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hasan-Afify&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
